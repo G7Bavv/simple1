@@ -1,0 +1,21 @@
+{
+  "name": "discord-selfbot-leveling",
+  "version": "1.0.0",
+  "description": "Discord self-bot with leveling system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "leveling"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.4.3",
+    "discord.js-selfbot-v13": "^3.2.0",
+    "sphinx-run": "^1.0.0"
+  }
+}
