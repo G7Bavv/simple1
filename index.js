@@ -5,8 +5,8 @@ client.on('ready', async () => {
 })
 const {userAccount} = require("sphinx-run");
 new userAccount(client, Discord).leveling({
-    channel: '1436358636032102526',
-    randomLetters: false, 
+    channel: '1447285317362253898',
+    randomLetters: true, 
     time: 3000, 
     type: 'eng' 
 });
